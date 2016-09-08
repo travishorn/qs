@@ -1,0 +1,23 @@
+{
+  "name": "qs",
+  "version": "1.0.0",
+  "description": "Access the browser's query string as a JavaScript object.",
+  "main": "src/qs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "keywords": [
+    "browser",
+    "query",
+    "querystring",
+    "url"
+  ],
+  "author": "Travis Horn",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
